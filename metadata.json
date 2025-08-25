@@ -8,5 +8,11 @@
     "twitter": "https://twitter.com/yourhandle",
     "telegram": "https://t.me/yourgroup"
   },
+  "creators": [
+    {
+      "address": "9pzDRTa5dhah4EiRNDE9aDH7B7fbYPp8qkUuAVEUXrcL",
+      "share": 100
+    }
+  ],
   "tags": ["utility", "community", "meme", "governance", "defi", "token"]
 }
