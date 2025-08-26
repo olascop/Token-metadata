@@ -2,16 +2,18 @@
   "name": "MyToken",
   "symbol": "MTK",
   "description": "MyToken is a community utility token built on Solana.",
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3WKMphvRnq_gNb4OQp3t6P55oeZqydssjTA&s",
-  "extensions": {
-    "website": "https://yourwebsite.com",
-    "twitter": "https://twitter.com/yourhandle",
-    "telegram": "https://t.me/yourgroup"
-  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3Aand9GcS3WKMphvRnq_gNb4OQp3t6P55oeZqydssjTA&s",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "Website", "value": "https://yourwebsite.com" },
+    { "trait_type": "Twitter", "value": "https://twitter.com/yourhandle" },
+    { "trait_type": "Telegram", "value": "https://t.me/yourgroup" }
+  ],
   "creators": [
     {
-      "address": "9pzDRTa5dhah4EiRNDE9aDH7B7fbYPp8qkUuAVEUXrcL",
-      "share": 100
+      "address": "GNduB9eEuv3aQc4ZwdeMEZdcCLbf5bdAfUsfK7g7z2y5",
+      "share": 100,
+      "verified": false
     }
   ],
   "tags": ["utility", "community", "meme", "governance", "defi", "token"]
