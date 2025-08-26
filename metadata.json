@@ -2,7 +2,7 @@
   "name": "MyToken",
   "symbol": "MTK",
   "description": "MyToken is a community utility token built on Solana.",
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3Aand9GcS3WKMphvRnq_gNb4OQp3t6P55oeZqydssjTA&s",
+  "image": "https://lh3.googleusercontent.com/gg-dl/AJfQ9KTSMBvqX2E2UaATS5A8662oz34-uxd0WWTqtFpBOIHYFA-sfqO7vKJkvBehJRFIqTqXVZSXslpqZfk3A2QOECkYisV79-35nEzUjbrkgUQzxne-Y8VgirI2lQ4iYJCkDWXMUkUp82T-fc0FN3Sb7goWddCUgmtTyfi5Yh4pqs-Ti6Lf=s1024",
   "seller_fee_basis_points": 500,
   "attributes": [
     { "trait_type": "Website", "value": "https://yourwebsite.com" },
