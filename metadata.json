@@ -2,7 +2,7 @@
   "name": "United State of America",
   "symbol": "USA",
   "description": "United State of America is a community utility token built on Solana.",
-  "image": "https://lh3.googleusercontent.com/gg-dl/AJfQ9KTSMBvqX2E2UaATS5A8662oz34-uxd0WWTqtFpBOIHYFA-sfqO7vKJkvBehJRFIqTqXVZSXslpqZfk3A2QOECkYisV79-35nEzUjbrkgUQzxne-Y8VgirI2lQ4iYJCkDWXMUkUp82T-fc0FN3Sb7goWddCUgmtTyfi5Yh4pqs-Ti6Lf=s1024",
+  "image": "https://raw.githubusercontent.com/olascop/token-image/refs/heads/main/download.png",
   "seller_fee_basis_points": 500,
   "attributes": [
     { "trait_type": "Website", "value": "https://yourwebsite.com" },
